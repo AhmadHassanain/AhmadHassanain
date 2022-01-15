@@ -22,8 +22,9 @@
 ### ___**CONTACT INFORMATION**___.
 ---
 [![Linkedin: ahasanein](https://img.shields.io/badge/-AhmedAbuHasanein-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedabuhasanein/)](https://www.linkedin.com/in/ahmedabuhasanein/)<br />
-[![Twitter: ahasanein](https://img.shields.io/badge/-Ahmedahasanein-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedahasanein)](https://twitter.com/ahmedahasanein)<br />
+<!--[![Twitter: ahasanein](https://img.shields.io/badge/-Ahmedahasanein-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ahmedahasanein)](https://twitter.com/ahmedahasanein)<br />
 [![Facebook: AhmedAbuHasanein](https://img.shields.io/badge/-AhmedAbuHasanein-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AhmedAbuHasanein/)](https://www.facebook.com/AhmedAbuHasanein/)<br />
+-->
 [![](https://img.shields.io/badge/Gmail-Eng.Ahmed-orange)](mailto:ahmed.ahasanein@gmail.com
 )
 
